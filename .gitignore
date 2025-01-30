@@ -6,9 +6,6 @@
 ## https://docs.npmjs.com/misc/faq#should-i-check-my-node_modules-folder-into
 node_modules
 
-# Book build output
-_book
-
 # eBook 
 *.epub/pub
 *.mobi
